@@ -9,7 +9,7 @@ TaskFlow is a modern, customizable Trello-style Kanban board web application for
 - ✨ **Visual Polish:** Professional fonts, multiple color themes, subtle background patterns.
 - 📝 **Rich Task Management:** Create, edit, delete tasks with priority, due date, description, assignee, and statistics.
 - 🔒 **Persistence:** Board state, settings, and tasks saved in browser LocalStorage.
-- 🌙 **Dark Mode & Themes:** Choose from seven themes and light/dark modes; theme is remembered across sessions.
+- 🌙 **Dark Mode & Themes:** Choose from several themes and light/dark modes; theme is remembered across sessions.
 - 📅 **Calendar Integration:** Due-date management with calendar and progress tracking.
 - 🧑‍💻 **Multi-user Simulation:** See active users, assign tasks, and view a live activity log.
 - ⌨️ **Keyboard Shortcuts:** Quick add/search/delete, undo/redo.
@@ -35,12 +35,13 @@ git clone https://github.com/akshat-kumar10/TaskFlow.git
 
 ### Folder Structure
 
+```
 TaskFlow/
 ├── index.html
 ├── styles.css
 ├── script.js
 └── README.md
-
+```
 
 ## Usage
 
